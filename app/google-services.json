@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1009694096546",
+    "firebase_url": "https://wallpaper-aap.firebaseio.com",
+    "project_id": "wallpaper-aap",
+    "storage_bucket": "wallpaper-aap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009694096546:android:0e46da3e3daac51ec66bfb",
+        "android_client_info": {
+          "package_name": "com.wallpaper.datadrawer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009694096546-g51hthrgdg4l6v1s3itlptgt85gs3q6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHv8Su7XqXjkBoW6-Il4MOLeKccPbCZCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009694096546-g51hthrgdg4l6v1s3itlptgt85gs3q6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009694096546:android:bbdb0881d4e60569c66bfb",
+        "android_client_info": {
+          "package_name": "com.wallpaper.wallp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009694096546-g51hthrgdg4l6v1s3itlptgt85gs3q6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHv8Su7XqXjkBoW6-Il4MOLeKccPbCZCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009694096546-g51hthrgdg4l6v1s3itlptgt85gs3q6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009694096546:android:f0962d5f25f08b36c66bfb",
+        "android_client_info": {
+          "package_name": "com.wallpaper.wallpadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009694096546-g51hthrgdg4l6v1s3itlptgt85gs3q6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHv8Su7XqXjkBoW6-Il4MOLeKccPbCZCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009694096546-g51hthrgdg4l6v1s3itlptgt85gs3q6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
